@@ -1,0 +1,64 @@
+
+
+.body {
+    background-color: lightgoldenrodyellow;
+    height: 1000px;
+    width: 750px;
+    margin: auto;
+    padding: 20px;
+}
+
+
+
+.header {
+    font-family: fantasy;   
+    size: 35px;
+    margin: auto;
+    width:auto;
+    padding: 50px;
+
+}
+
+.head-title {
+    background-color: lightgray;
+    vertical-align: middle;
+    line-height: 50px;
+    margin: auto;
+    text-align: center;
+    padding: 25px;
+}
+
+
+
+.action {
+    margin: auto;
+    width: 75px;
+}
+
+
+.button-img {
+    width: 150px;
+    
+}
+
+.game {
+    margin: auto;
+    width: 75px;
+}
+
+.dices-container {
+    width: 700;
+    height: 500;
+    margin: auto;
+}
+
+
+.signature {
+    font-family: monospace;
+    size: 16px;
+    color: purple;
+    vertical-align: middle;
+    text-align: center;
+    padding-top: 50px;
+
+}
